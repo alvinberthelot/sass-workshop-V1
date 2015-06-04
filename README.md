@@ -5,7 +5,7 @@
 
 Rien d'étonnant à cela lorsque l'on voit ses fonctionnalités et son écosystème qui permettent de faciliter grandement le développement et la maintenance de feuilles de styles CSS.
 
-Voici un atelier alternant présentation de ce pré-processeur avec exercices à l'appui.
+Cet atelier se déroule avec une [présentation théorique](https://speakerdeck.com/alvinberthelot/sass-workshop) et les sources présentes pour les exercices.
 
 Niveau : débutant / intermédiaire
 
