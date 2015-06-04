@@ -18,6 +18,6 @@ Cet atelier s'est déroulé :
 
 1. [Node.js](https://nodejs.org/) doit être installé
 2. Lancer la commande des dépendances pour Node.js
-  npm install
+    npm install
 3. Construire le site et lancer le LiveReload avec Gulp
-  gulp
+    gulp
