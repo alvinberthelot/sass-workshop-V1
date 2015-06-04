@@ -16,8 +16,24 @@ Cet atelier s'est déroulé :
 
 ## Pré-requis
 
-1. [Node.js](https://nodejs.org/) doit être installé
-2. Lancer la commande des dépendances pour Node.js
+Get sources :
+
+	git clone https://github.com/alvinberthelot/shoplist-back
+
+Go to directory :
+
+	cd shoplist-back
+
+Install Node depencies, into workspace :
+
+	npm install
+
+[Node.js](https://nodejs.org/) doit être installé
+
+Lancer la commande des dépendances pour Node.js
+
     npm install
-3. Construire le site et lancer le LiveReload avec Gulp
+
+Construire le site et lancer le LiveReload avec Gulp
+
     gulp
