@@ -57,7 +57,9 @@ gulp.task('css', function () {
   // keep stream CSS after Sass pre-processing
   gulp.src(paths.styles.src)
     .pipe(sourcemaps.init())
-      .pipe(sass())
+      .pipe(sass()).on('error', function logError(error) {
+        console.error(error);
+      })
     .pipe(sourcemaps.write('../maps'))
     .pipe(gulp.dest(paths.styles.dest))
     .pipe(reload({stream: true}));
