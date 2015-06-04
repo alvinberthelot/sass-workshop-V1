@@ -22,6 +22,10 @@ Lancer la commande des dépendances pour Node.js
 
     npm install
 
-Construire le site et lancer le LiveReload avec Gulp
+Construire le site et lancer le LiveReload avec Gulp (avec installation de Gulp en global)
 
     gulp
+
+Construire le site et lancer le LiveReload avec Gulp (avec installation de Gulp en local)    
+    
+    ./node_modules/.bin/gulp
