@@ -18,6 +18,8 @@ Cet atelier s'est déroulé :
 
 [Node.js](https://nodejs.org/) doit être installé
 
+### Avec accès Internet
+
 Lancer la commande des dépendances pour Node.js
 
     npm install
@@ -25,6 +27,10 @@ Lancer la commande des dépendances pour Node.js
 Construire le site et lancer le LiveReload avec Gulp (avec installation de Gulp en global)
 
     gulp
+
+### Sans accès Internet
+
+Récupération du dossier node_modules (via clé USB)
 
 Construire le site et lancer le LiveReload avec Gulp (avec installation de Gulp en local)    
     
