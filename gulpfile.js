@@ -126,7 +126,7 @@ gulp.task('sassdoc', function () {
 // MASTER TASKS
 // ******************************************
 
-gulp.task('build', ['copy-fonts', 'copy-css', 'html', 'images']);
+gulp.task('build', ['copy-fonts', 'css', 'html', 'images']);
 
 gulp.task('default', ['clean'], function () {
   gulp.start('serve');
