@@ -16,18 +16,6 @@ Cet atelier s'est déroulé :
 
 ## Pré-requis
 
-Get sources :
-
-	git clone https://github.com/alvinberthelot/shoplist-back
-
-Go to directory :
-
-	cd shoplist-back
-
-Install Node depencies, into workspace :
-
-	npm install
-
 [Node.js](https://nodejs.org/) doit être installé
 
 Lancer la commande des dépendances pour Node.js
